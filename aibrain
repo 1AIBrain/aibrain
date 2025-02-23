@@ -2,7 +2,7 @@
 logs
 *.log
 npm-debug.log*
-yarn-debug.log*
+yarn-debugdog*
 yarn-error.log*
 lerva-debug.log*
 
